@@ -1,14 +1,18 @@
-header {
-    background-color: black;
-    width:100%;
-    height: 1000px;
-    display: flex;
-    align-items: center;
-    top: 0;
+@font-face {
+  font-family: Juice ITC;
+  src: url(/assets/juice-itc.TTF);
 }
 
 body {
-    padding-top: 10;
+    margin:0
+}
+
+header {
+    background-color: black;
+    width:100%;
+    min-height: 90px;
+    display: flex;
+    align-items: center;
 }
 
 header > p {
@@ -16,6 +20,8 @@ header > p {
 }
 
 .icones-pesquisa {
+    margin-left: 25px;
+    margin-right:0px;
     height:30px;
     width:30px;
 }
@@ -23,4 +29,10 @@ header > p {
 .icones-menu {
     height:43px;
     width:43px;
+}
+
+.texto-menu {
+    font-size: 36px;
+    margin-left: 10px;
+    margin-right:auto;
 }
