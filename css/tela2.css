@@ -115,12 +115,13 @@ input {
 }
 .footer a {
   color: #fff;
-  margin-left: 10px;
   text-decoration: none;
 }
 .footer p {
   margin: 0;
   font-size: 0.8rem;
+  align-items: center;
+  text-align: center;
 }
 .social-icons {
   display: flex;
