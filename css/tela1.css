@@ -3,8 +3,16 @@
   src: url(/assets/juice-itc.TTF);
 }
 
+@font-face {
+    font-family: Jacques Francois;
+    src: url(/assets/JacquesFrancois-Regular.ttf);
+}
+
 body {
-    margin:0
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+    margin:0;
 }
 
 header {
@@ -13,6 +21,16 @@ header {
     min-height: 90px;
     display: flex;
     align-items: center;
+}
+
+footer {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 header > p {
@@ -35,4 +53,15 @@ header > p {
     font-size: 36px;
     margin-left: 10px;
     margin-right:auto;
+}
+
+.texto-titulo {
+    font-family: "Jacques Francois", serif;
+    margin-right:auto;
+    font-size:36px;
+}
+
+.texto-titulo-z {
+    font-family: "Juice ITC", cursive;
+    font-size: 52px;
 }
