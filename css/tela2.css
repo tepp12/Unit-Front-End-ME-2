@@ -23,14 +23,14 @@ body {
 .logo {
   color: #fff;
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 36px;
   letter-spacing: 2px;
   font-family: "Georgia", serif;
 }
 
 .logo-z {
   font-family: 'Juice ITC', cursive;
-  font-size: 2rem;
+  font-size: 52px;
 }
 
 .login-container {
