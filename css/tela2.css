@@ -57,14 +57,12 @@ label {
   font-size: 1.2rem;
   margin-bottom: 5px;
 }
-
 input {
   padding: 8px;
   border: 1px solid #000;
   margin-bottom: 15px;
   font-size: 1rem;
 }
-
 .btn-primary {
   background: #000;
   color: #ffffff;
@@ -75,25 +73,21 @@ input {
   margin-bottom: 15px;
   font-family: "Federo", sans-serif;
 }
-
 .divider {
   display: flex;
   align-items: center;
   text-align: center;
   margin: 10px 0;
 }
-
 .divider hr {
   flex: 1;
   border: none;
   border-top: 1px solid #000;
 }
-
 .divider span {
-  margin: 0 10px;
+  margin: 3px;
   font-size: 0.9rem;
 }
-
 .btn-google {
   display: flex;
   align-items: center;
@@ -106,12 +100,10 @@ input {
   gap: 8px;
   font-family: "Georgia", serif;
 }
-
 .btn-google img {
   width: 18px;
   height: 18px;
 }
-
 .footer {
   background: #000;
   color: #fff;
@@ -121,24 +113,20 @@ input {
   align-items: center;
   justify-content: space-between;
 }
-
 .footer a {
   color: #fff;
   margin-left: 10px;
   text-decoration: none;
 }
-
 .footer p {
   margin: 0;
   font-size: 0.8rem;
 }
-
 .social-icons {
   display: flex;
   gap: 10px;
   margin-right: 10px;
 }
-
 .social-icons img {
   width: 18px;
   height: 18px;
