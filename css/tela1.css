@@ -1,33 +1,33 @@
 @font-face {
   font-family: Juice ITC;
-  src: url(/assets/juice-itc.TTF);
+  src: url(../assets/juice-itc.TTF);
 }
 
 @font-face {
     font-family: Jacques Francois;
-    src: url(/assets/JacquesFrancois-Regular.ttf);
+    src: url(../assets/JacquesFrancois-Regular.ttf);
 }
 
 @font-face {
     font-family: Federo;
-    src: url(/assets/Federo-Regular.ttf);
+    src: url(../assets/Federo-Regular.ttf);
 }
 
 @font-face {
   font-family: Abhaya Libre;
-  src: url(/assets/AbhayaLibre-Regular.ttf)
+  src: url(../assets/AbhayaLibre-Regular.ttf)
 }
 
 @font-face {
   font-family: Abhaya Libre;
-  src: url(/assets/AbhayaLibre-Bold.ttf);
+  src: url(../assets/AbhayaLibre-Bold.ttf);
   font-style: normal;
   font-weight: bold;
 }
 
 @font-face {
   font-family: Frank Ruhl Libre;
-  src: url(/assets/FrankRuhlLibre-Regular.ttf);
+  src: url(../assets/FrankRuhlLibre-Regular.ttf);
 }
 
 html, body {
@@ -214,7 +214,7 @@ footer > p {
 
 .icones-seta {
   align-items: center;
-  content:url(/assets/seta.svg);
+  content:url(../assets/seta.svg);
   width:32px;
   height:32px;
 }

@@ -1,16 +1,16 @@
 @font-face {
   font-family: Juice ITC;
-  src: url(/assets/juice-itc.TTF);
+  src: url(../assets/juice-itc.TTF);
 }
 
 @font-face {
     font-family: Jacques Francois;
-    src: url(/assets/JacquesFrancois-Regular.ttf);
+    src: url(../assets/JacquesFrancois-Regular.ttf);
 }
 
 @font-face {
     font-family: Federo;
-    src: url(/assets/Federo-Regular.ttf);
+    src: url(../assets/Federo-Regular.ttf);
 }
 
     h1 {
