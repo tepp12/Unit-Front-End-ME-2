@@ -15,9 +15,13 @@ body {
 }
 
 .top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: #000;
-  padding: 10px 0;
-  text-align: center;
+  width:100%;
+  min-height: 90px;
+  padding:10px;
 }
 
 .logo {
